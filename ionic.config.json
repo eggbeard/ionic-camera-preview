@@ -1,0 +1,7 @@
+{
+  "name": "ionic-camera-preview",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
